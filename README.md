@@ -53,10 +53,10 @@ columns = df.columns
 - Our dataset spans 159 countries.
 - We spotlight the top 5 countries with the most cities.
 
-```python
+
 # Visualizing temperature trends for the top 5 countries with the most cities
 sns.lineplot(x='Year', y='AverageTemperature', hue='Country', data=filtered_data1)
-```
+
 
 **Countries with Fewer than 10 Cities**
 
