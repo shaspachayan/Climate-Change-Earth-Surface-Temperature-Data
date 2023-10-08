@@ -1,4 +1,3 @@
-Certainly, here's a README file written from scratch with headings in bold:
 
 
 # Climate Data Analysis: Uncovering Historical Temperature Trends
